@@ -1,5 +1,5 @@
 ---
-install_curl_packages:
+install_kubeadm_packages:
   common: &common
     - "kubeadm"
   debian_armv7l: *common
